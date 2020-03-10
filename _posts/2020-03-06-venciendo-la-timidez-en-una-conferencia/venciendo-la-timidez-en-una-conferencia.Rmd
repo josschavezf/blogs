@@ -1,0 +1,52 @@
+---
+title: "Venciendo la timidez en una conferencia"
+author:
+  - name: Joselyn Chávez
+    url: https://josschavezf1.github.io
+date: 03-06-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Recientemente, tuve la oportunidad de asistir al [RStudioConf 2020](https://rstudio.com/conference/) y fue toda una aventura! Todo comenzó cuando [Leonardo Collado](https://twitter.com/fellgernon), un colega y amigo, compartió la convocatoria para las becas de diversidad de esta conferencia.
+
+Mientras llenaba mi solicitud pensaba en el hecho de que las becas de diversidad son muy competidas y contemplan personas de todo Latinoamérica! Es en esos momentos cuando aparece el _síndrome del impostor_. Ese sentimiento que nos hace pensar que no somos lo suficiente buenos para merecer un puesto o que ni siquiera deberíamos intentar algo que represente un reto porque no habrá forma de conseguirlo. Esta vez decidí decirle "no te haré caso" porque este evento significaba una gran oportunidad para mí.
+
+Al redactar mi aplicación me di cuenta que este año había estado lleno de cosas buenas, cosas que sobre las que no me había tomado el tiempo de reflexionar y recapitular. A inicios de 2019 [Alejandro Reyes](https://twitter.com/areyesq) y Leonardo me apoyaron para aplicar a una beca para asistir a la conferencia de [Bioconductor 2019](http://bioc2019.bioconductor.org/), ellos me dieron retroalimentación sobre la escritura de mi solicitud y tuve la dicha no sólo de asistir al evento con la beca sino de presentar los avances de un paquete en el que había comenzado a colaborar!  Despúes, durante el verano tuve la oportunidad de conocer más a Alejandro, Leonardo y [Alejandra Medina](https://twitter.com/AleMedinaRivera), quienes formaron una increíble comunidad en México: la [CDSB](https://comunidadbioinfo.github.io/#about). 
+
+Durante la [segunda edición del Workshop]((https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#.XmLvwC3mGS4)) organizado por esta comunidad, pude ver el gran entusiasmo que tienen para compartir sus conocimientos y su gran interés en incrementar el número de desarrolladores mexicanos. Esta gran actitud me contagió y un día les hice saber que deseaba colaborar con ellos. Al finalizar la semana de curso, me dieron la bienvenida al grupo de organizadores. 
+
+Adicionalmente, gracias al apoyo de ellos y de mujeres líderes de capítulos de [R-Ladies](https://rladies.org) en México, cuando finalizó el workshop del CDSB también tomé la decisión de comenzar un nuevo capítulo de R-Ladies en mi ciudad [Cuernavaca](https://twitter.com/RLadiesCuerna) con la ayuda de dos personas muy especiales, Verónica y Leticia. Y por si fuera poco, durante el otoño me convertí en miembro de la Red Mexicana de Bioinformática, con el apoyo de Alejandra. Todo esto pasó en un año! Con todo esto en mente, estaba en el mejor momento para llenar una solicitud y, aún con un poco de nervios, oprimí el botón de _enviar_.
+
+En noviembre de 2019, mientras tomaba un [curso sobre Hi-C,](https://twitter.com/SelFdz/status/1193244486383501312) recibí ese tan esperado correo que decía: "Congratulations! You've been selected to receive one of the rstudio::conf diversity scholarships." Mi corazón saltaba de emoción, mi mente se quedó en blanco por minutos enteros (lo siento instructores de Hi-C), no podía creerlo! Quería contárselo al mundo entero, deseaba salir corriendo a decírselo a mi familia, a mis amigos, a mi tutor... y yo ahí encerrada en el salón aprendiendo de Hi-C!!! (de verdad lo siento mucho mucho mucho instructores de Hi-C). Bueno, como no podía ir a ninguna parte, decidí compartir la buena noticia mediante Twitter (https://twitter.com/josschavezf1/status/1191848557315330054) 
+
+Finalmente, el día de la conferencia llegó. Me sentí tan emocionada de recibir el gafete con mi nombre, en ese momento mi presencia se volvió real, estaba en RStudioConf! https://twitter.com/RLadiesCuerna/status/1222301948059082753
+
+Pero en medio de toda la emoción, mi timidez también se volvió real... Había una cantidad tremenda de personas en esta conferencia y yo no podía ubicar a nadie! Entonces, durante el brindis del primer día encontré a dos personas que ya conocía [Gabriel Odom](https://twitter.com/RevDocGabriel), a quien conocí en BioC2019, y Leonardo. Durante algunos momentos no pude evitar seguirlos a todas partes.
+https://twitter.com/Used_For_Glue/status/1216757285277577216
+
+Ellos me presentaron nuevas personas, sobre todo personas de LatinoAmérica y eso me emocionó mucho. Nunca imaginé que la comunidad de Latinos presentes en la conferencia fuera tan grande! Es inevitable sentirse como en casa y hablar con ellos como si los conocieras desde siempre. Conocerlos fue también una plataforma de seguridad que me ayudó a sentirme mucho más cómoda para comenzar a hablar con nuevas personas.
+
+Al día siguiente, decidí dar un siguiente paso. Hablar con personas relacionadas con el workshop en el que me encontraba, este workshop se llamó [_What they forgot to teach you about R_](http://whattheyforgot.org/). Primero comencé con mis compañeros de mesa, después con las personas de apoyo para dudas, entre ellas [Hannah Frick](https://twitter.com/hfcfrick) y finalmente con los instructores [Kara Woo](https://twitter.com/kara_woo), [Jenny Bryan](https://twitter.com/JennyBryan) y [Jim Hester](https://twitter.com/jimhester_). La elección de este workshop no pudo ser mejor, los instructores fueron espectaculares, el material fue excelente, los ejercicios fueron bastante ilustrativos y la música durante la sección de práctica fue la cereza del pastel. Kara amablemente nos compartió una [recapitulación](https://education.rstudio.com/blog/2020/02/conf20-wtf/) de este curso, incluyendo la [playlist.](https://open.spotify.com/playlist/0OuvqM69DKFK3QPbHIy2kc?si=xonCaP2RTmeOXO3YW7hxhQ)
+
+Después del workshop, vinieron los días de conferencias. Aprendí muchas cosas, por ejemplo algunas implementaaciones para escribir nombres científicos en ggplot gracias a [Claus Wilke](https://twitter.com/ClausWilke), [Sharla Gelfand](https://twitter.com/sharlagelfand) nos mostró cómo generar reportes y [Yihui Xie](https://twitter.com/xieyihui) nos dejó asombrados con las múltiples salidas que puede tener un Rmarkdown. Adicionalmente, [Teresa Ortiz](https://twitter.com/TeresaOM) presentó una charla sobre cómo usa RStudio para el conteo rápido en las elecciones presidenciales de México.
+
+Algo que me pareció muy afortunado para conocer personas de diversas áreas fueron los brindis al terminar las sesiones diarias. En este espacio pude hablar con personas de compañías como Genentech y tuve la oportunidad de conocer a Joe Rickert de [R Consortium](https://www.r-consortium.org). Adicionalmente, tuve la fortuna de conocer en persona a [Gabriela de Queiroz](https://twitter.com/gdequeiroz) y [Erin LeDell](https://twitter.com/ledell) de RLadies Global, así como líderes de múltiples capítulos R-Ladies en Latinoamérica y en EUA. Esto representó para mí una tercera fase para superar mi timidez, y el resultado fue muy gratificante. 
+
+Al final de la conferencia tenía mucha más confianza en mí misma, había superado la pena de entablar una conversación con alguien totalmente desconocido, tuve la oportunidad de hablar con personas a quienes admiro mucho por su trabajo en RStudio y entablé nuevas amistades que espero perduren por mucho tiempo.
+
+Así que estos son los puntos que considero cruciales para superar la timidez en una conferencia:
+
+- Si conoces a alguien previamente, pídele que te presente a sus amigos.
+- Habla con tus compañeros de curso, tienes la ventaja de tener un tema en común con el cual romper el hielo.
+- Si existen desayunos o brindis enfocados en conocer personas, asiste.
+- Cuando estés listo, saluda a alguien totalmente extraño, te sorprenderá lo mucho que puede aportar alguien que se dedica a un área completamente diferente a la tuya.
+- Si la conversación fluye lo suficiente, establece un contacto, por ejemplo mediante Twitter.
+
+Espero que compartir mi experiencia en esta conferencia pueda ser útil a alguien más. Por mi parte, estoy ansiosa por asistir nuevamente a un evento como este y reencontrarme con las personas que tuve la fortuna de conocer, así como hacer nuevos amigos.

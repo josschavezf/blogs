@@ -1,0 +1,11 @@
+---
+title: "About this blog"
+description: |
+  In this blog I will share with you my experiences by attending conferences, 
+  specially those focused on the R software and science. I will also share some
+  notes I take during the workshops and talks, hope they would be useful for you!
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

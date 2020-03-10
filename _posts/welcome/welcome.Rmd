@@ -1,0 +1,21 @@
+---
+title: "Welcome to my blog!"
+description: |
+  In this blog I will share with you my experiences by attending conferences, 
+  specially those focused on the R software and science.
+author:
+  - name: Joselyn Chávez. Ph.D. Student 
+    url: https://josschavezf1.github.io
+
+date: 03-06-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+

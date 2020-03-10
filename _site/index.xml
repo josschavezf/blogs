@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>blog</title>
+    <link>https://github.com/josschavezf1/</link>
+    <atom:link href="https://github.com/josschavezf1/index.xml" rel="self" type="application/rss+xml"/>
+    <description>A blog to share my experiences as student at conferences.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to my blog!</title>
+      <dc:creator>Joselyn Chávez. Ph.D. Student</dc:creator>
+      <link>https://github.com/josschavezf1/posts/welcome</link>
+      <description>In this blog I will share with you my experiences by attending conferences, 
+specially those focused on the R software and science.</description>
+      <guid>https://github.com/josschavezf1/posts/welcome</guid>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Venciendo la timidez en una conferencia</title>
+      <dc:creator>Joselyn Chávez</dc:creator>
+      <link>https://github.com/josschavezf1/posts/2020-03-06-venciendo-la-timidez-en-una-conferencia</link>
+      <description>Venciendo la timidez en una conferencia</description>
+      <guid>https://github.com/josschavezf1/posts/2020-03-06-venciendo-la-timidez-en-una-conferencia</guid>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
